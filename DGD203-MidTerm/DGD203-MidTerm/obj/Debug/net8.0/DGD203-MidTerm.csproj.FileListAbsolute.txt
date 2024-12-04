@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-MidTerm\DGD203-MidTerm\DGD203-MidTerm\bin\Debug\net8.0\DGD203-MidTerm.exe
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-MidTerm\DGD203-MidTerm\DGD203-MidTerm\bin\Debug\net8.0\DGD203-MidTerm.deps.json
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-MidTerm\DGD203-MidTerm\DGD203-MidTerm\bin\Debug\net8.0\DGD203-MidTerm.runtimeconfig.json
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-MidTerm\DGD203-MidTerm\DGD203-MidTerm\bin\Debug\net8.0\DGD203-MidTerm.dll
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-MidTerm\DGD203-MidTerm\DGD203-MidTerm\bin\Debug\net8.0\DGD203-MidTerm.pdb
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-MidTerm\DGD203-MidTerm\DGD203-MidTerm\obj\Debug\net8.0\DGD203-MidTerm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-MidTerm\DGD203-MidTerm\DGD203-MidTerm\obj\Debug\net8.0\DGD203-MidTerm.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-MidTerm\DGD203-MidTerm\DGD203-MidTerm\obj\Debug\net8.0\DGD203-MidTerm.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-MidTerm\DGD203-MidTerm\DGD203-MidTerm\obj\Debug\net8.0\DGD203-MidTerm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-MidTerm\DGD203-MidTerm\DGD203-MidTerm\obj\Debug\net8.0\DGD203-MidTerm.dll
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-MidTerm\DGD203-MidTerm\DGD203-MidTerm\obj\Debug\net8.0\refint\DGD203-MidTerm.dll
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-MidTerm\DGD203-MidTerm\DGD203-MidTerm\obj\Debug\net8.0\DGD203-MidTerm.pdb
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-MidTerm\DGD203-MidTerm\DGD203-MidTerm\obj\Debug\net8.0\DGD203-MidTerm.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\DGD203-HasanEmreBebis-MidTerm\DGD203-MidTerm\DGD203-MidTerm\obj\Debug\net8.0\ref\DGD203-MidTerm.dll
